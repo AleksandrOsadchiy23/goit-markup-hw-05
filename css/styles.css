@@ -791,7 +791,7 @@ body {
   display: block;
   width: 370px;
   height: 404px;
-  outline: none;
+  /* outline: none; */
   transition: 250ms var(--time-function);
   
 }
