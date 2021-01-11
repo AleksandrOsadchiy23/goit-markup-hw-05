@@ -174,9 +174,6 @@ body {
   transform: scaleX(1);
 }
 
-
-
-
 .navigation-list-item,
 .heder-address-list-item,
 .principles-list-item,
@@ -213,7 +210,7 @@ body {
 .original {
   margin-left: auto;
   margin-right: auto;
-  background-color: #2f303a;
+  background-color: #ffffff;
   /* border: 1px solid red; */
 }
 
@@ -266,9 +263,6 @@ body {
   box-shadow: 0px 4px rgba(0, 0, 0, 0.15);
   border-radius: 4px;
   cursor: pointer;
-
-  
-
 }
 
 
@@ -278,7 +272,7 @@ body {
   margin-left: auto;
   margin-right: auto;
   padding-top: 94px;
-  padding-bottom: 94px;
+  padding-bottom: 47px;
   background-color: #ffffff;
   /* border: 1px solid red; */
 }
@@ -343,7 +337,7 @@ body {
  
   margin-left: auto;
   margin-right: auto;
-  padding-top: 94px;
+  padding-top: 47px;
   padding-bottom: 94px;
 }
 .types-jobs {
@@ -482,7 +476,7 @@ body {
 .network-link:hover,
 .network-link:focus {
   background-color: #2196f3;
-  outline: none;
+  
 }
 
 .team-network-icon {
@@ -658,8 +652,7 @@ body {
 .footer-network-link:hover,
 .footer-network-link:focus {
   background-color: #2196f3;
-  outline: none;
-  
+   
 }
 .footer-logo {
   fill: #ffffff;
